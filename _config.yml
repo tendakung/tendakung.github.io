@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tengda Gong"
 title_separator          : "-"
 name                     : &name "Tengda Gong"
-description              : &description "PhD candidate in development economics"
+description              : &description "Ph.D. candidate, development econ"
 url                      : https://tendakung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tendakung.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Tengda Gong"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD candidate in development economics"
+  bio              : "Ph.D. candidate, development econ"
   location         : "UC Davis"
   employer         :
   pubmed           :
