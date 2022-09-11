@@ -3,23 +3,19 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-My essential goal of teaching is to enable students to reasonably perceive and explore the world in the hope that they will have a wonderful life journey in the future. To achieve this, I help my students acquire knowledge, develop application skills, and raise their awareness of the world in each course. During the five years of teaching practice, I have gradually learned how to help students grasp knowledge and gain application skills in an inclusive learning environment. This is largely reflected in their rising evaluations of my teaching effectiveness as shown below. For more details, please check my teaching statement [here](/files/pdf/teaching/TS.pdf).
+My essential goal of teaching is to enable students to reasonably perceive and explore the world in the hope that they will have a wonderful life journey in the future. To achieve this, I help my students acquire knowledge, develop application skills, and raise their awareness of nation-wide and world-wide issues like gender gap and climate change. During the past five years of teaching practice, I have gradually learned how to create an effective and inclusive learning environment for students with diversified backgrounds. This is largely reflected in their rising evaluations of my teaching effectiveness as listed below. For details about my teaching method and effectiveness, please check my teaching statement [here](/files/pdf/teaching/TS.pdf).
 
 ## Instructor, University of California, Davis
 - Econometric Theory and Applications (undergraduate level, Summer 2022)
     - [Syllabus](/files/pdf/teaching/ARE106SummerSyllabus.pdf)
-    - Class Size: 35 students
-    - Class Mode: in person (recordings available for absent students with excuses)
+    - Class Info: high level; in person; 35 students
     - Students' evaluations of overall teaching effectiveness: 4.8/5
 
 ## Teaching Assistant, University of California, Davis
-- Econometric Theory and Applications (undergraduate level, Winter & Spring 2022)
-    - Students' evaluations of overall teaching effectiveness: 4.0/5 -> 4.4/5
-- Time Series Econometrics (graduate level, Fall 2020 & Winter 2021)
-    - Students' evaluations of overall teaching effectiveness: 4.6/5 -> 4.9/5
-- Financial Management of Firm (undergraduate level, Winter & Spring 2019)
-    - Students' evaluations of overall teaching effectiveness: 4.1/5 -> 4.5/5
-- Intermediate Microeconomics (undergraduate level, Fall 2018)
-    - Students' evaluations of overall teaching effectiveness: NA
-- Managerial Economics (undergraduate level, Winter 2018)
-    - Students' evaluations of overall teaching effectiveness: 3.9/5
+- Undergraduate courses
+    - Econometric Theory and Applications: Winter & Spring 2022; 4.0/5 -> 4.4/5
+    - Financial Management of Firm: Winter & Spring 2019; 4.1/5 -> 4.5/5
+    - Intermediate Microeconomics: Fall 2018; NA
+    - Managerial Economics: Winter 2018; 3.9/5
+- Graduate course
+    - Time Series Econometrics: Fall 2020 & Winter 2021; 4.6/5 -> 4.9/5
