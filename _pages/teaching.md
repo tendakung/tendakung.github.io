@@ -3,38 +3,16 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+My essential goal of teaching is to enable students to reasonably perceive and explore the world in the hope that they will have a wonderful life journey in the future. To achieve this, I help my students acquire knowledge, develop application skills, and raise their awareness of the world in each course. During the five years of teaching practice, I have gradually learned how to help students grasp knowledge and gain application skills in an inclusive learning environment. This is largely reflected in their rising evaluations of my teaching effectiveness as a teaching assistant for various undergraduate and graduate courses as shown in Table 1 below. And it was not until recently, when I started teaching undergraduate econometrics as an associate instructor, that I deeply realized that raising students’ awareness of social issues is not a burden but a delight for them. It has become the most effective teaching approach to attract students’ attention and boost their learning in my class. In the following, I will illustrate my teaching methods and evidence of their effectiveness based on my recent experience in the undergraduate course Econometric Theory and Applications as a teacher.   
 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+You can view my teaching statement [here](/files/pdf/teaching/Portfolio.pdf).
 
-## Washington University in St. Louis
+## Instructor, University of California, Davis
 - Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
     - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+    - Students' Evaluations: 
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
-
-## ICPSR Summer Program
+## Teaching Assistant, University of California, Davis
 - Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+    - Students' Evaluations:
