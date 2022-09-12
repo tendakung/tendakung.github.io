@@ -215,6 +215,7 @@ defaults:
       type: teaching
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comments: true
