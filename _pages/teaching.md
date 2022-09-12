@@ -22,4 +22,4 @@ My essential goal of teaching is to enable students to reasonably perceive and e
 - Graduate course
     - Time Series Econometrics: Fall 2020 & Winter 2021; 4.6/5->4.9/5
 
-[^1]*Something emergent happened to the teacher such that they did not do the student evaluations.*
+[^1]: Something emergent happened to the teacher such that they did not do the student evaluations.
