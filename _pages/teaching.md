@@ -15,9 +15,9 @@ My essential goal of teaching is to enable students to reasonably perceive and e
 
 ## Teaching Assistant, University of California, Davis
 - Undergraduate courses
-    - Econometric Theory and Applications: Winter & Spring 2022; 4.0/5 &rarr 4.4/5
-    - Financial Management of Firm: Winter & Spring 2019; 4.1/5 &rarr 4.5/5
+    - Econometric Theory and Applications: Winter & Spring 2022; 4.0/5 &#8594 4.4/5
+    - Financial Management of Firm: Winter & Spring 2019; 4.1/5 &#8594 4.5/5
     - Intermediate Microeconomics: Fall 2018; NA
     - Managerial Economics: Winter 2018; 3.9/5
 - Graduate course
-    - Time Series Econometrics: Fall 2020 & Winter 2021; 4.6/5 &rarr 4.9/5
+    - Time Series Econometrics: Fall 2020 & Winter 2021; 4.6/5 &#8594 4.9/5
