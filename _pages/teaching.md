@@ -5,7 +5,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-My essential goal of teaching is to enable students to reasonably perceive and explore the world in the hope that they will have a wonderful life journey in the future. To achieve this, I help my students acquire knowledge, develop application skills, and raise their awareness of nation-wide and world-wide issues like gender gap and climate change. During the past five years of teaching practice, I have gradually learned how to create an effective and inclusive learning environment for students with diversified backgrounds. This is largely reflected in their rising evaluations of my teaching effectiveness as listed below. For details about my teaching methods and their effectiveness, please check my teaching statement [here](/files/pdf/teaching/TS.pdf).
+My essential goal in teaching is to enable students to reasonably perceive and explore the world in the hope that they will have a wonderful life journey in the future. To achieve this, I help my students acquire knowledge, develop application skills, and raise their awareness of nationwide and worldwide issues like the gender gap in income and climate change. During the five years of teaching practice, I have gradually learned how to create an effective and inclusive learning environment for students with diverse backgrounds. This is largely reflected in the rising evaluations of my teaching effectiveness as listed below. For details about my teaching methods and their effectiveness, please check my teaching statement [here](/files/pdf/teaching/TS.pdf).
 
 ## Instructor, University of California, Davis
 - Econometric Theory and Applications (undergraduate level, Summer 2022)
