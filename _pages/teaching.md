@@ -1,4 +1,5 @@
 ---
+layout: single
 classes: wide
 permalink: /teaching/
 title: "Teaching"
