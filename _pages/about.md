@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 header: 
   image: 
-     path: personal_photo.jpg
+     path: /images/personal_photo.jpg
      width: 150
      height: 30
 ---
