@@ -1,7 +1,7 @@
 ---
 title: "The Mechanization of Farming on <i>Tiliu Tian</i> Boosts Transfers of <i>Chengbao Tian</i>: Economic Analysis and Descriptive Evidence from Chizhou, Anhui Province, China."
-collection: publications
-permalink: /publication/2014-paper1
+collection: research
+permalink: /research/jmp
 date: 2014-04-14
 venue: 'Journal of Translation from Foreign Literature of Economics (Chinese)'
 paperurl: '/files/pdf/research/tiliutian2014.pdf' 
