@@ -14,7 +14,7 @@ author_profile: true
 > Securing land ownership is hypothesized to bring about significant gains in both agricultural output and poverty reduction for an agrarian economy endowed with unequal land ownership distribution. These win-win economic gains hinge on the premise that the security improvement can simultaneously boost land-attached capital investments and increase land rental supply to facilitate land access for the poor. By renting in more land, the poor can earn higher incomes by working more on their own farms as family labor which is more efficient than hired labor due to the agency cost. However, this paper argues that non-security barriers to long-term land rental contracts, which causes capital depreciation risk for the rented-out land, can downsize these economic gains. Theoretically, the capital depreciation risk induces the bias of the investment effect of higher land ownership security towards the endowed land to be self-cultivated, which tends to attenuate the concurrent rental-supply effect. The smaller increase in land rental supply will limit not only the improvement in labor efficiency but also the size of the investment effect through the complementarity between attached capital and labor inputs in farm production, leading to smaller welfare gains than expected, especially the welfare gain for the poor.
 
 
-# Work in Progress
+# Ongoing Work
 
 ### Do organic products have higher markups? Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/).
 
