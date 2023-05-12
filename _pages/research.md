@@ -20,4 +20,4 @@ author_profile: true
 
 ### The unintended effect of Brazil's environment-oriented credit policy on the drought-induced deforestation in the Amazon Biome. Coauthored with [Nilesh Shinde](https://sites.google.com/view/nshinde/home)   
 
-### Climate change, supply chain, and trade : Evidence from California drought. 
+### Climate change, supply chain, and trade: Evidence from California drought. 
