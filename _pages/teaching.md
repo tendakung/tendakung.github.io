@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: /teaching/
-title: ""
+title: "Teaching"
 ---
 
 My essential goal in teaching is to enable students to perceive and explore the world reasonably. To achieve this, I help my students acquire essential knowledge, develop application skills, and raise their awareness of social issues. During the five years of teaching practice, I have gradually learned how to create an effective and inclusive learning environment for students with diverse backgrounds. This is reflected in the students’ rising evaluations of my teaching effectiveness in the five undergraduate and graduate courses listed below. For details about my teaching methods and their effectiveness, please check my teaching statement [here](/files/pdf/teaching/TS.pdf).
