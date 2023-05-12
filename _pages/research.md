@@ -9,7 +9,7 @@ author_profile: true
 
 ### [Job Market Paper] Secular rise and pro-cyclical variation in markups: Evidence from US grocery stores. Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/).
 <br>
-<img src='/images/research/JMP-webfigure.png' width='800'>
+<img src='/images/research/JMP-webfigure.PNG' width='800'>
 > This paper documents substantial time variation in price elasticities and their implied markups. We propose a two-step procedure to uncover time-varying markups. Using the retail scanner data of US grocery stores from 2001 to 2020, we first estimate elasticities at the market-good-year level. We then efficiently aggregate these elasticities by year to estimate a common trend and cyclical variation and impute annual markups from there. We find (i) a secular increase in markups of 3.9% per year and (ii) an average cyclical decline of 13.6% at years of aggregate demand contractions. Across markets, elasticities vary with market-wide economic and demographic factors that we expect to influence consumers' budgets, while our market concentration measure has no significant impact on elasticities.
 
 ### The contemporaneous interaction between the investment and rental-supply effects of higher land ownership security and its welfare implications.
