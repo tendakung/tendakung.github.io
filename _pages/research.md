@@ -23,4 +23,5 @@ author_profile: true
 
 ### Does the investment effect of higher land ownership security attenuate the concurrent rental-supply effect? Evidence from Nicaraguan farmers.
 
+### Climate change, supply chain, and trade: Evidence from California droughts.
 
