@@ -17,7 +17,7 @@ Over the course of my five years of teaching experience, I have been working har
 
 ## Teaching Assistant, University of California, Davis
 - Undergraduate courses
-    - Econometric Theory and Applications: Winter & Spring 2022; 4.0/5->4.4/5
+    - Econometric Theory and Applications: Winter & Spring 2022, Summer 2023; 4.0/5->4.4/5->4.5/5
     - Financial Management of Firm: Winter 2018, Winter & Spring 2019; 3.9->4.1/5->4.5/5
     - Intermediate Microeconomics: Fall 2018; evaluations not available
 - Graduate course
