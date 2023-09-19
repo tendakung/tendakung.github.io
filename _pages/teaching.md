@@ -19,5 +19,5 @@ As an educator, my goal is to equip my students with the knowledge and skills th
     - Financial Management of Firm: Winter 2018, Winter & Spring 2019; 3.9->4.1/5->4.5/5
     - Intermediate Microeconomics: Fall 2018; evaluations not available
 - Graduate course
-    - Time Series Econometrics: Fall 2020 & Winter 2021; 4.6/5->4.9/5
+    - Time Series Econometrics: Fall 2019 & Winter 2021; 4.6/5->4.9/5
 
