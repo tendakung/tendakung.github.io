@@ -17,7 +17,7 @@ author_profile: true
 
 # Ongoing Projects
 
-### Do organic products have higher markups? Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/).
+### Do organic food groceries have higher markups? Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/).
 
 ### The unintended effect of Brazil's environment-oriented credit policy on the drought-induced deforestation in the Amazon Biome. Coauthored with [Nilesh Shinde](https://sites.google.com/view/nshinde/home)   
 
