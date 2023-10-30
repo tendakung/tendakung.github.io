@@ -14,7 +14,7 @@ I am a Ph.D. candidate in [the Department of Agricultural and Resource Economics
 My primary interest lies in how market mechanisms and institutions affect resource allocation and social welfare in a changing world with various market imperfections and under climate change. One part of my research is to study the dynamics, resilience, and justice of the US food system throughout socioeconomic development and climate change. The other part is to study agricultural growth, poverty dynamics, and environmental degradation in Latin America where the agricultural production system has been experiencing structural transformations due to institutional reforms and climate change. You may see specific work like my JMP in the research section.
 <br>
 ### Education
-- Ph.D., Agricultural & Development Economics, University of California, Davis, 2023-2024 (expected)
+- Ph.D., Agricultural & Development Economics, University of California, Davis, 2024 (expected)
 - M.A., Economics, Xiamen University (China), 2017.
 - B.S., Finance, University of Science and Technology of China, 2014.
 <br>
