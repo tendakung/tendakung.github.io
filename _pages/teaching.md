@@ -7,7 +7,7 @@ title: "Teaching"
 <br>
 As an educator, my goal is to equip my students with the knowledge and skills they need to perceive and explore the world rationally and critically, particularly in today's information-rich environment. Ultimately, I hope my students can develop a holistic understanding of the world, and become active, informed citizens who are equipped to make a positive impact in their communities and beyond. Over the five years of teaching experience, I have been working hard to create an effective and inclusive learning environment that meets the needs of students from diverse backgrounds. This effort is reflected in the steadily increasing scores on my teaching evaluations for the four undergraduate and graduate courses that I have taught, as shown below. For my teaching methods and their effectiveness, please refer to my teaching statement [here](/files/pdf/teaching/TS.pdf).
 
-## Associate Instructor, University of California, Davis
+## Instructor of Record, University of California, Davis
 - Econometric Theory and Applications (undergraduate level, Summer 2022)
     - [Syllabus](/files/pdf/teaching/ARE106SummerSyllabus.pdf)
     - Class Info: high level; in person; 35 students
