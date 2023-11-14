@@ -9,6 +9,7 @@ author_profile: true
 
 ### [Food Demand] Secular rise and pro-cyclical variation in markups: Evidence from US grocery stores. Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/). 
 To be presented at the SEA and AEA annual meetings. You may download the paper at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551482).
+<br>
 <img src='/images/research/JMP-webfigure.PNG' width='800'>
 > This paper documents substantial time variations in price elasticities of demand
 and implied markups for the US food retail sector. First, we employ a Hausmantype IV to estimate store-level own-price elasticities at the market-good-year level, using scanner data of US grocery stores from 2001 to 2020. Then, we efficiently aggregate these data annually to estimate a common trend and cyclical variation in elasticities. Finally, we impute nationwide store-level price-cost markups from
