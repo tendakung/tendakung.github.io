@@ -16,8 +16,6 @@ I got my Ph.D. in Agricultural and Development Economics from the University of 
 - Development Economics
 - Environmental Economics
 - Industrial Organization
-<br>
-<br>
 ### Education
 - Ph.D., Agricultural & Development Economics, University of California, Davis, 2024
 - M.A., Economics, Xiamen University (China), 2017.
