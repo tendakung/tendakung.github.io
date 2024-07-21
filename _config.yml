@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-Canada"
 title                    : "Tengda Gong"
 title_separator          : "-"
 name                     : &name "Tengda Gong"
-description              : &description "Ph.D. candidate <br> Ag. & Dev. Economics"
+description              : &description "Ph.D. <br> Ag. & Dev. Economics"
 url                      : https://tendakung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tendakung.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Tengda Gong"
   avatar           : "personal_photo.jpg"
-  bio              : "Ph.D. candidate <br> Ag. & Dev. Economics"
-  location         : "UC Davis"
+  bio              : "Ph.D. <br> Ag. & Dev. Economics"
+  location         : "UManitoba"
   employer         :
   pubmed           :
   orcid            : 
   googlescholar    : 
-  email            : "tdgong@ucdavis.edu"
+  email            : "tengdagong@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
