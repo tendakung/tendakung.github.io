@@ -24,8 +24,6 @@ To be presented at the 2024 SEA and 2025 AEA annual meetings. You may download t
 ### The countervailing investment and rental-supply effects of securing land ownership: Numerical evidence on welfare implications.
 
 ### Do organic food groceries have higher markups? Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/).
-
-### The unintended effect of Brazil's environment-oriented credit policy on the drought-induced deforestation in the Amazon Biome. Coauthored with [Nilesh Shinde](https://sites.google.com/view/nshinde/home)   
-
+ 
 ### Climate change, supply chain, and trade: Evidence from California droughts.
 
