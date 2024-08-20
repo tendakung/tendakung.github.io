@@ -25,5 +25,5 @@ To be presented at the 2024 SEA and 2025 AEA annual meetings. You may download t
 
 ### Do organic food groceries have higher markups? Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/).
  
-### Retail assortment under supply shock: Evidence from California droughts.
+### Retail assortment under supply shocks: Evidence from California droughts.
 
