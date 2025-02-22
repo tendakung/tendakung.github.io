@@ -8,15 +8,24 @@ author_profile: true
 # Working Papers
 
 ### [Food Demand] Secular rise and pro-cyclical variation in markups: Evidence from US grocery stores. Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/). 
-Presented at the 2023 SEA and 2024 AEA annual meetings. You may download the paper at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551482).
+Presented at the 2023 SEA and 2024 AEA annual meetings. An updated draft coming out soon. You may download the previous version of this paper at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551482).
 <br>
 <img src='/images/research/JMP-webfigure.PNG' width='800'>
-> This paper documents substantial time variations in price elasticities of demand
-and implied markups for the US food retail sector. First, we employ a Hausmantype IV to estimate store-level own-price elasticities at the market-good-year level, using scanner data of US grocery stores from 2001 to 2020. Then, we efficiently aggregate these data annually to estimate a common trend and cyclical variation in elasticities. Finally, we impute nationwide store-level price-cost markups from
-annual elasticities under a standard optimal pricing rule. We find (i) a long-run increase in US grocery store markups of 3.9% per year in the past two decades and (ii) a short-term decrease of 13.6% per year during aggregate demand contractions. We show the underlying elasticities are largely driven by economic and market factors, such as real GDP, housing prices, population, and product differentiation.
+> This paper identifies causes of procyclical variation in markups using micro data. We
+proceed in two steps. First, we show that markups can be nonparametrically estimated
+based on a locally linear demand model. We apply a revenue-weighted instrumental
+variable approach to estimate region-specific time-varying markups using U.S. grocery
+price scanner data from 2001-2022. We find a secular trend rise and procyclical variation
+in markups. Second, using a dynamic panel model, we quantify the contributions
+of four main drivers of variation: demographic trends, market concentration, aggregate
+demand, and real interest rate. We find that these factors explain a large fraction the
+variation across markets and over time. While reduced market concentration has put
+some downward pressure on markups, the overall rise has been due to increases in aggregate
+demand. Our results imply that during the 2008-2016 negative real interest rates
+increased markups counteracting downward pressure from aggregate demand factors.
 
 ### [Agricultural Production] The countervailing investment and rental-supply effects of securing land ownership: Theory and evidence from Nicaragua. 
-To be presented at the 2024 SEA and 2025 AEA annual meetings. You may download the paper [here](/files/pdf/research/land_ownership_security_202411.pdf).
+Presented at the 2024 SEA and 2025 AEA annual meetings. You may download the paper [here](/files/pdf/research/land_ownership_security_202411.pdf).
 > Securing land ownership has long been hypothesized to bring about significant gains in both agricultural output and poverty reduction for rural economies endowed with unequal land ownership distributions. However, these win-win economic gains largely hinge on the premise that security improvement will simultaneously boost land-attached investments and increase land rental supply to facilitate land access for the rural poor. This paper argues that non-security barriers to long-term land rental contracts could break this premise by causing a countervailing interaction between the investment and rental-supply effects of securing land ownership. I provide suggestive evidence from Nicaragua, one of the poorest countries in Latin America. Recent panel data of rural household surveys show that after a plausibly exogenous improvement in land ownership security, previously-credit-unconstrained households significantly increased land-attached investments but not rented-out land, while previously-credit-constrained households did the opposite. These findings hold even for matched households based on their initial likelihood of being credit-constrained.
 
 ### [Social Welfare] The countervailing investment and rental-supply effects of securing land ownership: Welfare implications for rural economies endowed with unequal land ownership distributions.
