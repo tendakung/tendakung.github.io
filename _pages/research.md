@@ -8,7 +8,7 @@ author_profile: true
 # Working Papers
 
 ### [Food Demand] Secular rise and pro-cyclical variation in markups: Evidence from US grocery stores. Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/). 
-Presented at the 2023 SEA and 2024 AEA annual meetings. An updated draft coming out soon. You may download the previous version of this paper at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551482).
+Presented at the 2023 SEA and 2024 AEA annual meetings. An updated draft coming out soon. You may download the early version of this paper at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551482).
 <br>
 <br>
 <img src='/images/research/JMP-webfigure.PNG' width='800'>
