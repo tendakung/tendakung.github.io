@@ -7,23 +7,12 @@ author_profile: true
 
 # Working Papers
 
-### [Food Demand] Secular rise and pro-cyclical variation in markups: Evidence from US grocery stores. Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/). 
-Presented at the 2023 SEA and 2024 AEA annual meetings. An updated draft coming out soon. You may download the early version of this paper at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551482).
+### [Food Demand] Procyclical Markups: Nonparametric Estimates in a Structural Dynamic Panel. Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/). 
+Presented at the 2023 SEA and 2024 AEA annual meetings; to be presented at the 2025 CEA annual meeting. You may download this paper at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551482).
 <br>
 <br>
 <img src='/images/research/JMP-webfigure.PNG' width='800'>
-> This paper identifies causes of procyclical variation in markups using micro data. We
-proceed in two steps. First, we show that markups can be nonparametrically estimated
-based on a locally linear demand model. We apply a revenue-weighted instrumental
-variable approach to estimate region-specific time-varying markups using U.S. grocery
-price scanner data from 2001-2022. We find a secular trend rise and procyclical variation
-in markups. Second, using a dynamic panel model, we quantify the contributions
-of four main drivers of variation: demographic trends, market concentration, aggregate
-demand, and real interest rate. We find that these factors explain a large fraction the
-variation across markets and over time. While reduced market concentration has put
-some downward pressure on markups, the overall rise has been due to increases in aggregate
-demand. Our results imply that during the 2008-2016 negative real interest rates
-increased markups counteracting downward pressure from aggregate demand factors.
+> This paper identifies causes of procyclical variation in markups using micro data. We proceed in two steps. First, we show that markups can be nonparametrically estimated based on a locally linear demand model. We apply a revenue-weighted instrumental variable approach to estimate region-specific time-varying markups using U.S. grocery price scanner data from 2001-2022. We find a secular trend rise and procyclical variation in markups. Second, using a dynamic panel model, we quantify the contributions of four main drivers of variation: demographic trends, market concentration, aggregate demand, and real interest rate. Taken together, these factors explain a large fraction of the variation across markets and over time. The variations of demographic and market concentration factors had only small impacts, which were moving in opposite directions. From 2008-2016 negative real interest rates increased markups counteracting downward pressure from aggregate demand factors; later in the sample markups increased because of higher aggregate demand.
 
 ### [Agricultural Production] The countervailing investment and rental-supply effects of securing land ownership: Theory and evidence from Nicaragua. 
 Presented at the 2024 SEA and 2025 AEA annual meetings. You may download the paper [here](/files/pdf/research/land_ownership_security_202411.pdf).
