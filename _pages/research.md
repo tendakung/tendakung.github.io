@@ -25,7 +25,10 @@ This paper employs a multi-agent simulation approach to investigate the extent t
 
 # Ongoing Projects
 
-### Do organic food groceries have higher markups? Coauthored with [Bulat Gafarov](https://are.ucdavis.edu/people/faculty/bulat-gafarov/) and [Jens Hilscher](https://are.ucdavis.edu/people/faculty/jens-hilscher/).
+### Price dynamics of organic versus conventional fresh produce: Market, macroeconomic, and weather factors. Coauthored with Bulat Gafarov and Jens Hilscher.
+To be presented at the 2025 AAEA annual meeting.
+
+### The drought-induced deforestation in the Brazilian Amazon. Coauthored with Alankrita Goswami and Nilesh Shinde.
  
 ### Climate change, supply chain, and trade: Evidence from California droughts.
 
