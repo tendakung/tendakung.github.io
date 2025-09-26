@@ -29,7 +29,7 @@ This paper employs a multi-agent simulation approach to investigate the extent t
 Presented at the 2025 AAEA annual meeting, to be presented at the SEA annual meeting.
 > Fresh produce is the largest category of organic food sales in the U.S. This paper studies the relative price dynamics of organic versus conventional produce from 2006 to 2023. Using retail scanner data, we find that the revenue-weighted average price of organic produce declined relative to conventional produce across major grocery markets beginning in 2017, with the exception of a brief uptick following the onset of COVID-19. Prior to 2017, the relative price exhibited substantial fluctuations without a clear trend. Our analyses show that macroeconomic and market factors---real interest rate, housing prices, unemployment, product supply and variety as well as retailer concentration---account for a substantial share of this variation, especially the post-2016 downward trend. In addition, weather conditions in major fruit- and vegetable-producing states---precipitation and temperature---contribute significantly to short-term price fluctuations and place upward pressure on the relative price.
 
-### The drought-induced deforestation in the Brazilian Amazon. Coauthored with Alankrita Goswami and Nilesh Shinde.
+### The drought-induced deforestation in the Brazilian Amazon. Coauthored with Alankrita Goswami, Mahmoud Osman, and Nilesh Shinde.
  
 ### Climate change, supply chain, and trade: Evidence from California droughts.
 
